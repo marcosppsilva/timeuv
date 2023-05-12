@@ -29,9 +29,9 @@ Preto: #000000*/
     padding: 0px;
 }
 body{
-    font-family: var(--fontbase); 
-    background-color: var(--verdegramado50opaci);
-}
+    font-family: var(--fontbase);
+    background-image: url('https://img.freepik.com/fotos-gratis/fundo-do-campo-de-grama-verde_1252-1097.jpg?w=1380&t=st=1683884749~exp=1683885349~hmac=d5aebf4f6ba7190791ef4d33297398447106b85ca9d681e6a2aed748563731e1'); 
+    }
 #escudo{
     width: 150px;
     height: 150px;
